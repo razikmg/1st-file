@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @razikmg
+- 👋 Hi, I’m @razikmg (m razik)
 - 👀 I’m interested in learning and building programming language..
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on programming hacktons
